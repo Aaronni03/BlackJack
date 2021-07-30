@@ -4,7 +4,7 @@
 *	zni@cbu.edu			*
 *	4/23/2020				*
 ************************************************************
-To start the game, compile all java files. 
+To start the game, compile all java files by double clicking "Compile_Run.bat". 
 
 If you don't have the environment variable points to JavaFX library:
 Use batch file "all" as a reference on how to import modules from JavaFX library. 
