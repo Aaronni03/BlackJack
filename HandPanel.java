@@ -20,7 +20,7 @@ public class HandPanel extends GridPane{
 
     public HandPanel(){
 
-        setGridLinesVisible(true);
+        setGridLinesVisible(false);
 
         Pane p = new Pane();
         p.setPrefSize(0, 90);
